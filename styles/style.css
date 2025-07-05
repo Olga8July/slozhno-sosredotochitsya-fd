@@ -87,7 +87,7 @@
 
 .header__theme-menu-button {
   background-color: var(--bg-header-button);
-  color: var(--accent-color);
+  color: var(--accent-color-button);
   border: none;
   min-width: 70px;
   min-height: 26px;
